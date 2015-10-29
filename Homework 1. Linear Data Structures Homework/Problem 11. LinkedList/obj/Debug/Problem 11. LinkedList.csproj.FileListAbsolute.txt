@@ -4,3 +4,6 @@ C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Str
 C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 11. LinkedList\obj\Debug\Problem 11. LinkedList.csprojResolveAssemblyReference.cache
 C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 11. LinkedList\obj\Debug\Problem_11.LinkedList.exe
 C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 11. LinkedList\obj\Debug\Problem_11.LinkedList.pdb
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 11. LinkedList\bin\Debug\Problem_11.LinkedList.exe.config
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 11. LinkedList\obj\Debug\Problem_11.LinkedList.exe
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 11. LinkedList\obj\Debug\Problem_11.LinkedList.pdb

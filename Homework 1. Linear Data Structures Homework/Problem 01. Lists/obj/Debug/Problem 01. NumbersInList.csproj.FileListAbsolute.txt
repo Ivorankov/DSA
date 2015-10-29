@@ -1,0 +1,3 @@
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 01. Lists\bin\Debug\Problem 1.exe.config
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 01. Lists\obj\Debug\Problem 1.exe
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 01. Lists\obj\Debug\Problem 1.pdb

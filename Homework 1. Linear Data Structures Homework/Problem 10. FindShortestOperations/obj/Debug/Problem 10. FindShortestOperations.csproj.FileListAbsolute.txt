@@ -4,3 +4,6 @@ c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Str
 c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 10. FindShortestOperations\obj\Debug\Problem 10. FindShortestOperations.csprojResolveAssemblyReference.cache
 c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 10. FindShortestOperations\obj\Debug\Problem_10.FindShortestOperations.exe
 c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 10. FindShortestOperations\obj\Debug\Problem_10.FindShortestOperations.pdb
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 10. FindShortestOperations\bin\Debug\Problem_10.FindShortestOperations.exe.config
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 10. FindShortestOperations\obj\Debug\Problem_10.FindShortestOperations.exe
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 10. FindShortestOperations\obj\Debug\Problem_10.FindShortestOperations.pdb
