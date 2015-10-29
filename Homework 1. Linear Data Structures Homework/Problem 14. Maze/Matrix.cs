@@ -22,6 +22,7 @@
         static void Main()
         {
             Run();
+            TagUnreachableSpaces();
 
             for (int i = 0; i < matrix.GetLength(0); i++)
             {
@@ -82,7 +83,6 @@
                 {
                     if (IsPathClear(temp, currentCol))
                     {
-
                         pointsToCheck.Push(new int[] { currentRow + 1, currentCol, currentNumber });
                     }
 
@@ -94,7 +94,6 @@
                 {
                     if (IsPathClear(temp, currentCol))
                     {
-
                         pointsToCheck.Push(new int[] { currentRow - 1, currentCol, currentNumber });
                     }
 
@@ -131,6 +130,20 @@
                 return false;
             }
             return true;
+        }
+
+        private static void TagUnreachableSpaces()
+        {
+            for (int i = 0; i < matrix.GetLength(0); i++)
+            {
+                for (int j = 0; j < matrix.GetLength(1); j++)
+                {
+                    if (matrix[i, j] == "0")
+                    {
+                        matrix[i, j] = "n";
+                    }
+                }
+            }
         }
     }
 }
