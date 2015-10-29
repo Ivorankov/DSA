@@ -15,6 +15,10 @@
             { "0", "0", "0", "x", "0", "x" } 
         };
 
+        private static int startPointRow = 2;
+
+        private static int startPointCol = 1;
+
         static void Main()
         {
             Run();
@@ -25,6 +29,7 @@
                 {
                     Console.Write(matrix[i, j] + "  ");
                 }
+
                 Console.WriteLine();
             }
 
@@ -37,7 +42,7 @@
             var currentCol = 0;
             var pointsToCheck = new Stack<int[]>();
             var currentNumber = 0;
-            pointsToCheck.Push(new int[3] { 2, 1, 0 });
+            pointsToCheck.Push(new int[3] { startPointRow, startPointCol, 0 });
 
             while (pointsToCheck.Count != 0)
             {
@@ -46,7 +51,8 @@
                 currentCol = currentPoint[1];
                 currentNumber = currentPoint[2];
                 var temp = 0;
-                matrix[currentRow, currentCol] = currentNumber.ToString(); 
+
+                matrix[currentRow, currentCol] = currentNumber++.ToString(); 
 
                 temp = currentCol;
                 temp++;
@@ -54,8 +60,7 @@
                 {
                     if (IsPathClear(currentRow, temp))
                     {
-                        matrix[currentRow, currentCol] = currentNumber++.ToString();
-                        pointsToCheck.Push(new int[] { currentRow, currentCol + 1, currentNumber-- });
+                        pointsToCheck.Push(new int[] { currentRow, currentCol + 1, currentNumber });
                     }
 
                 }
@@ -66,8 +71,7 @@
                 {
                     if (IsPathClear(currentRow, temp))
                     {
-                        matrix[currentRow, currentCol] = currentNumber++.ToString();
-                        pointsToCheck.Push(new int[] { currentRow, currentCol - 1, currentNumber-- });
+                        pointsToCheck.Push(new int[] { currentRow, currentCol - 1, currentNumber });
                     }
 
                 }
@@ -78,8 +82,8 @@
                 {
                     if (IsPathClear(temp, currentCol))
                     {
-                        matrix[currentRow, currentCol] = currentNumber++.ToString();
-                        pointsToCheck.Push(new int[] { currentRow + 1, currentCol, currentNumber-- });
+
+                        pointsToCheck.Push(new int[] { currentRow + 1, currentCol, currentNumber });
                     }
 
                 }
@@ -90,8 +94,8 @@
                 {
                     if (IsPathClear(temp, currentCol))
                     {
-                        matrix[currentRow, currentCol] = currentNumber++.ToString();
-                        pointsToCheck.Push(new int[] { currentRow - 1, currentCol, currentNumber-- });
+
+                        pointsToCheck.Push(new int[] { currentRow - 1, currentCol, currentNumber });
                     }
 
                 }
