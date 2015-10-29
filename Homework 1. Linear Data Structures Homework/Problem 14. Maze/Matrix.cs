@@ -25,7 +25,7 @@ namespace Problem_13.Maze
             {
                 for (int j = 0; j < matrix.GetLength(1); j++)
                 {
-                    Console.Write(matrix[i,j] + " ");
+                    Console.Write(matrix[i, j] + " ");
                 }
                 Console.WriteLine();
             }
@@ -48,7 +48,7 @@ namespace Problem_13.Maze
                 currentCol = currentPoint[1];
                 currentNumber = currentPoint[2];
                 var temp = 0;
-                var hasMoved = false;
+                matrix[currentRow, currentCol] = currentNumber.ToString(); 
 
                 temp = currentCol;
                 temp++;
@@ -61,7 +61,6 @@ namespace Problem_13.Maze
                         pointsToCheck.Push(new int[] { currentRow, currentCol, currentNumber });
                     }
 
-                    hasMoved = true;
                 }
 
                 temp = currentCol;
@@ -75,7 +74,6 @@ namespace Problem_13.Maze
                         pointsToCheck.Push(new int[] { currentRow, currentCol, currentNumber });
                     }
 
-                    hasMoved = true;
                 }
 
                 temp = currentRow;
@@ -89,7 +87,6 @@ namespace Problem_13.Maze
                         pointsToCheck.Push(new int[] { currentRow, currentCol, currentNumber });
                     }
 
-                    hasMoved = true;
                 }
 
                 temp = currentRow;
@@ -103,12 +100,6 @@ namespace Problem_13.Maze
                         pointsToCheck.Push(new int[] { currentRow, currentCol, currentNumber });
                     }
 
-                    hasMoved = true;
-                }
-
-                if (hasMoved)
-                {
-                    matrix[currentRow, currentCol] = currentNumber.ToString(); ;
                 }
             }
         }
