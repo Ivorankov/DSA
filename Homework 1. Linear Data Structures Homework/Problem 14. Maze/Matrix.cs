@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.CompilerServices;
-
-namespace Problem_13.Maze
+﻿namespace Problem_13.Maze
 {
+    using System;
+    using System.Collections.Generic;
+
     public class Matrix
     {
         private static string[,] matrix = 
@@ -25,7 +23,7 @@ namespace Problem_13.Maze
             {
                 for (int j = 0; j < matrix.GetLength(1); j++)
                 {
-                    Console.Write(matrix[i, j] + " ");
+                    Console.Write(matrix[i, j] + "  ");
                 }
                 Console.WriteLine();
             }
@@ -39,7 +37,7 @@ namespace Problem_13.Maze
             var currentCol = 0;
             var pointsToCheck = new Stack<int[]>();
             var currentNumber = 0;
-            pointsToCheck.Push(new int[3] { 2, 1, 1 });
+            pointsToCheck.Push(new int[3] { 2, 1, 0 });
 
             while (pointsToCheck.Count != 0)
             {
@@ -57,8 +55,7 @@ namespace Problem_13.Maze
                     if (IsPathClear(currentRow, temp))
                     {
                         matrix[currentRow, currentCol] = currentNumber++.ToString();
-                        currentCol++;
-                        pointsToCheck.Push(new int[] { currentRow, currentCol, currentNumber });
+                        pointsToCheck.Push(new int[] { currentRow, currentCol + 1, currentNumber-- });
                     }
 
                 }
@@ -70,8 +67,7 @@ namespace Problem_13.Maze
                     if (IsPathClear(currentRow, temp))
                     {
                         matrix[currentRow, currentCol] = currentNumber++.ToString();
-                        currentCol--;
-                        pointsToCheck.Push(new int[] { currentRow, currentCol, currentNumber });
+                        pointsToCheck.Push(new int[] { currentRow, currentCol - 1, currentNumber-- });
                     }
 
                 }
@@ -83,8 +79,7 @@ namespace Problem_13.Maze
                     if (IsPathClear(temp, currentCol))
                     {
                         matrix[currentRow, currentCol] = currentNumber++.ToString();
-                        currentRow++;
-                        pointsToCheck.Push(new int[] { currentRow, currentCol, currentNumber });
+                        pointsToCheck.Push(new int[] { currentRow + 1, currentCol, currentNumber-- });
                     }
 
                 }
@@ -96,8 +91,7 @@ namespace Problem_13.Maze
                     if (IsPathClear(temp, currentCol))
                     {
                         matrix[currentRow, currentCol] = currentNumber++.ToString();
-                        currentRow--;
-                        pointsToCheck.Push(new int[] { currentRow, currentCol, currentNumber });
+                        pointsToCheck.Push(new int[] { currentRow - 1, currentCol, currentNumber-- });
                     }
 
                 }
