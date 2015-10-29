@@ -1,0 +1,6 @@
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 13. Maze\bin\Debug\Problem_13.Maze.exe.config
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 13. Maze\bin\Debug\Problem_13.Maze.exe
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 13. Maze\bin\Debug\Problem_13.Maze.pdb
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 13. Maze\obj\Debug\Problem 14. Maze.csprojResolveAssemblyReference.cache
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 13. Maze\obj\Debug\Problem_13.Maze.exe
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 13. Maze\obj\Debug\Problem_13.Maze.pdb

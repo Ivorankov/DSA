@@ -1,0 +1,5 @@
+c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 08. FindMajoriantInArray\bin\Debug\Problem_08.FindMajoriantInArray.exe.config
+c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 08. FindMajoriantInArray\bin\Debug\Problem_08.FindMajoriantInArray.exe
+c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 08. FindMajoriantInArray\bin\Debug\Problem_08.FindMajoriantInArray.pdb
+c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 08. FindMajoriantInArray\obj\Debug\Problem_08.FindMajoriantInArray.exe
+c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 08. FindMajoriantInArray\obj\Debug\Problem_08.FindMajoriantInArray.pdb

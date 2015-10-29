@@ -1,0 +1,6 @@
+c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 1\bin\Debug\Problem 1.exe.config
+c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 1\bin\Debug\Problem 1.exe
+c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 1\bin\Debug\Problem 1.pdb
+c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 1\obj\Debug\NumbersInList.csprojResolveAssemblyReference.cache
+c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 1\obj\Debug\Problem 1.exe
+c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 1\obj\Debug\Problem 1.pdb
