@@ -1,6 +1,4 @@
-﻿using System.Threading;
-
-namespace Problem_11.ADTStack
+﻿namespace Problem_11.ADTStack
 {
    public class ADTStack<T>
    {

@@ -1,9 +1,0 @@
-C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 11. ADTStack\bin\Debug\Problem_11.ADTStack.exe.config
-C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 11. ADTStack\bin\Debug\Problem_11.ADTStack.exe
-C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 11. ADTStack\bin\Debug\Problem_11.ADTStack.pdb
-C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 11. ADTStack\obj\Debug\Problem 12. ADTStack.csprojResolveAssemblyReference.cache
-C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 11. ADTStack\obj\Debug\Problem_11.ADTStack.exe
-C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 11. ADTStack\obj\Debug\Problem_11.ADTStack.pdb
-C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 12. ADTStack\bin\Debug\Problem_11.ADTStack.exe.config
-C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 12. ADTStack\obj\Debug\Problem_11.ADTStack.exe
-C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 12. ADTStack\obj\Debug\Problem_11.ADTStack.pdb

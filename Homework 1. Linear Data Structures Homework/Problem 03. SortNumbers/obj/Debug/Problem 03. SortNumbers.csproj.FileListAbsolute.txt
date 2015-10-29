@@ -1,5 +1,0 @@
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 03. SortNumbers\bin\Debug\Problem_03.SortNumbers.exe.config
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 03. SortNumbers\bin\Debug\Problem_03.SortNumbers.exe
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 03. SortNumbers\bin\Debug\Problem_03.SortNumbers.pdb
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 03. SortNumbers\obj\Debug\Problem_03.SortNumbers.exe
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 03. SortNumbers\obj\Debug\Problem_03.SortNumbers.pdb

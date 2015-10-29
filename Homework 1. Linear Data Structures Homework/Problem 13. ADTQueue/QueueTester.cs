@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace Problem_12.ADTQueue
+﻿namespace Problem_12.ADTQueue
 {
+    using System;
+
     public class QueueTester
     {
         static void Main()

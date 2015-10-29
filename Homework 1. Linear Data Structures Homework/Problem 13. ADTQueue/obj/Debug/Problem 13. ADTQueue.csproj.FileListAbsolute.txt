@@ -1,9 +1,0 @@
-C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 12. ADTQueue\bin\Debug\Problem_12.ADTQueue.exe.config
-C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 12. ADTQueue\bin\Debug\Problem_12.ADTQueue.exe
-C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 12. ADTQueue\bin\Debug\Problem_12.ADTQueue.pdb
-C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 12. ADTQueue\obj\Debug\Problem 13. ADTQueue.csprojResolveAssemblyReference.cache
-C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 12. ADTQueue\obj\Debug\Problem_12.ADTQueue.exe
-C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 12. ADTQueue\obj\Debug\Problem_12.ADTQueue.pdb
-C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 13. ADTQueue\bin\Debug\Problem_12.ADTQueue.exe.config
-C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 13. ADTQueue\obj\Debug\Problem_12.ADTQueue.exe
-C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 13. ADTQueue\obj\Debug\Problem_12.ADTQueue.pdb

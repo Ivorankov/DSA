@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Problem_06.RemoveNumbersWithOddCount
+﻿namespace Problem_06.RemoveNumbersWithOddCount
 {
     using System;
     using System.Collections.Generic;

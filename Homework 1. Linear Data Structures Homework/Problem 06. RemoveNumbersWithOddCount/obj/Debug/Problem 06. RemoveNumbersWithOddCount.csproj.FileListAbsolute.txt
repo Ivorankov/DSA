@@ -1,8 +1,0 @@
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 06. RemoveNumbersWithOddCount\bin\Debug\Problem_06.RemoveNumbersWithOddCount.exe.config
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 06. RemoveNumbersWithOddCount\bin\Debug\Problem_06.RemoveNumbersWithOddCount.exe
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 06. RemoveNumbersWithOddCount\bin\Debug\Problem_06.RemoveNumbersWithOddCount.pdb
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 06. RemoveNumbersWithOddCount\bin\Debug\Utils.dll
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 06. RemoveNumbersWithOddCount\bin\Debug\Utils.pdb
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 06. RemoveNumbersWithOddCount\obj\Debug\Problem 06. RemoveNumbersWithOddCount.csprojResolveAssemblyReference.cache
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 06. RemoveNumbersWithOddCount\obj\Debug\Problem_06.RemoveNumbersWithOddCount.exe
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 06. RemoveNumbersWithOddCount\obj\Debug\Problem_06.RemoveNumbersWithOddCount.pdb

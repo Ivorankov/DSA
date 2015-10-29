@@ -1,8 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Problem_07.FindTheUniqueNumbersCount
+﻿namespace Problem_07.FindTheUniqueNumbersCount
 {
+    using System;
+    using System.Collections.Generic;
+
    public class RamDbImporter
     {
        private static Random rnd = new Random();

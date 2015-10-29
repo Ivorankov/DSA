@@ -1,6 +1,4 @@
-﻿
-
-namespace Problem_03.SortNumbers
+﻿namespace Problem_03.SortNumbers
 {
     using System;
     using System.Collections.Generic;

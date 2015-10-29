@@ -1,5 +1,0 @@
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 02. NumbersInStack\bin\Debug\Problem_02.NumbersInStack.exe.config
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 02. NumbersInStack\bin\Debug\Problem_02.NumbersInStack.exe
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 02. NumbersInStack\bin\Debug\Problem_02.NumbersInStack.pdb
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 02. NumbersInStack\obj\Debug\Problem_02.NumbersInStack.exe
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 02. NumbersInStack\obj\Debug\Problem_02.NumbersInStack.pdb

@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace Problem_11.ADTStack
+﻿namespace Problem_11.ADTStack
 {
+    using System;
+
     public class StackTester
     {
         static void Main()

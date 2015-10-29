@@ -1,6 +1,0 @@
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 09. PrintFirst50\bin\Debug\Problem_09.PrintFirst50.exe.config
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 09. PrintFirst50\bin\Debug\Problem_09.PrintFirst50.exe
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 09. PrintFirst50\bin\Debug\Problem_09.PrintFirst50.pdb
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 09. PrintFirst50\obj\Debug\Problem 09. PrintFirst50.csprojResolveAssemblyReference.cache
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 09. PrintFirst50\obj\Debug\Problem_09.PrintFirst50.exe
-c:\users\kjkjh\documents\visual studio 2013\Projects\Homework 1. Linear Data Structures Homework\Problem 09. PrintFirst50\obj\Debug\Problem_09.PrintFirst50.pdb
