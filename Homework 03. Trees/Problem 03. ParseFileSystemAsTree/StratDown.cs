@@ -13,7 +13,7 @@ namespace Problem_03.ParseFileSystemAsTree
             var rootFolder = new Folder("Windows");
             ReadDirContentAndPopulateFolderObject(path, rootFolder);
 
-            var resultSizes = TraverseDFS(rootFolder);
+            var resultSizes = Traverse(rootFolder);
 
             Console.WriteLine("Total size(bytes) : " + resultSizes.Sum());
             Console.WriteLine("Total size(GB) : " + (resultSizes.Sum() / 1000000000));
@@ -21,7 +21,7 @@ namespace Problem_03.ParseFileSystemAsTree
             Console.ReadKey();
         }
 
-        public static List<long> TraverseDFS(Folder folder)
+        public static List<long> Traverse(Folder folder)
         {
             var resultSizes = new List<long>();
             var fileCount = folder.Files.Length;
@@ -33,7 +33,7 @@ namespace Problem_03.ParseFileSystemAsTree
             var folderCount = folder.ChildFolders.Length;
             for (int i = 0; i < folderCount; i++)
             {
-                resultSizes.AddRange(TraverseDFS(folder.ChildFolders[i]));
+                resultSizes.AddRange(Traverse(folder.ChildFolders[i]));
             }
             return resultSizes;
         }
