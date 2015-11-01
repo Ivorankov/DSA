@@ -51,8 +51,14 @@
                 currentCol = currentPoint[1];
                 currentNumber = currentPoint[2];
                 var temp = 0;
-
-                matrix[currentRow, currentCol] = currentNumber++.ToString(); 
+                var test = 0;
+                if (int.TryParse(matrix[currentRow, currentCol], out test))
+                {
+                    if (test > currentNumber && test != 0)
+                    {
+                        matrix[currentRow, currentCol] = currentNumber++.ToString(); 
+                    }
+                }
 
                 temp = currentCol;
                 temp++;

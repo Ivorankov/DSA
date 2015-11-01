@@ -1,0 +1,6 @@
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 14. Maze\bin\Debug\Problem_13.Maze.exe.config
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 14. Maze\bin\Debug\Problem_13.Maze.exe
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 14. Maze\bin\Debug\Problem_13.Maze.pdb
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 14. Maze\obj\Debug\Problem 14. Maze.csprojResolveAssemblyReference.cache
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 14. Maze\obj\Debug\Problem_13.Maze.exe
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 1. Linear Data Structures Homework\Problem 14. Maze\obj\Debug\Problem_13.Maze.pdb
