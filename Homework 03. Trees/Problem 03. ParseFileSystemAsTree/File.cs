@@ -2,7 +2,6 @@
 {
     public class File
     {
-
         public File(string name, long fileSize)
         {
             this.Name = name;

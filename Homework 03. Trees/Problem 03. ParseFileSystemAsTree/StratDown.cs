@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-
-namespace Problem_03.ParseFileSystemAsTree
+﻿namespace Problem_03.ParseFileSystemAsTree
 {
+    using System;
+    using System.Collections.Generic;
+    using System.IO;
+    using System.Linq;
+
     public class StratDown
     {
         static void Main()

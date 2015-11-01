@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Problem_03.ParseFileSystemAsTree
+﻿namespace Problem_03.ParseFileSystemAsTree
 {
     public class Folder
     {
-
         public Folder(string name)
         {
             this.Name = name;
