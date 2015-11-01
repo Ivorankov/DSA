@@ -7,7 +7,7 @@ namespace Problem_01.TreeTraversal
     using System;
     using System.Collections.Generic;
 
-    public class Program
+    public class Gardener
     {
         static void Main()
         {
