@@ -16,7 +16,7 @@
             var resultSizes = Traverse(rootFolder);
 
             Console.WriteLine("Total size(bytes) : " + resultSizes.Sum());
-            Console.WriteLine("Total size(GB) : " + (resultSizes.Sum() / 1000000000));
+            Console.WriteLine("Total size(GB) : " + (double)(resultSizes.Sum() / 1000000000));
 
             Console.ReadKey();
         }

@@ -1,0 +1,6 @@
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 03. Trees\Problem 03. ParseFileSystemAsTree\bin\Debug\Problem_03.ParseFileSystemAsTree.exe.config
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 03. Trees\Problem 03. ParseFileSystemAsTree\bin\Debug\Problem_03.ParseFileSystemAsTree.exe
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 03. Trees\Problem 03. ParseFileSystemAsTree\bin\Debug\Problem_03.ParseFileSystemAsTree.pdb
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 03. Trees\Problem 03. ParseFileSystemAsTree\obj\Debug\Problem 03. ParseFileSystemAsTree.csprojResolveAssemblyReference.cache
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 03. Trees\Problem 03. ParseFileSystemAsTree\obj\Debug\Problem_03.ParseFileSystemAsTree.exe
+C:\Users\kjkjh\Documents\GitHub\DSA\Homework 03. Trees\Problem 03. ParseFileSystemAsTree\obj\Debug\Problem_03.ParseFileSystemAsTree.pdb

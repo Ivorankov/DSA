@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bots", "ConsoleApplication1\Bots.csproj", "{7B6F051B-5790-4208-BB8A-3ADDF0593A77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{6B625A53-8D55-459D-88D2-95244323076F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet", "HashSet\HashSet.csproj", "{EDA42D49-1A14-4B77-AE53-566E91945FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B6F051B-5790-4208-BB8A-3ADDF0593A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6F051B-5790-4208-BB8A-3ADDF0593A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B6F051B-5790-4208-BB8A-3ADDF0593A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6F051B-5790-4208-BB8A-3ADDF0593A77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B625A53-8D55-459D-88D2-95244323076F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B625A53-8D55-459D-88D2-95244323076F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B625A53-8D55-459D-88D2-95244323076F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B625A53-8D55-459D-88D2-95244323076F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA42D49-1A14-4B77-AE53-566E91945FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA42D49-1A14-4B77-AE53-566E91945FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA42D49-1A14-4B77-AE53-566E91945FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA42D49-1A14-4B77-AE53-566E91945FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
